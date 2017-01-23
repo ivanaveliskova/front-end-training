@@ -9,7 +9,7 @@ This exercise should cover understanding what semantic markup is. And how to use
 
 Then try to recreate the following page using semantic elements.
 Don't worry about the exact sizes of the text or images. Try to recreate it as closely as possible, worry more about the elements used. Feel free to use any placeholder text and images (as you can see I am a fan of [Cupcake Ipsum](http://www.cupcakeipsum.com/) and [unsplash.com](https://unsplash.com/), but again, choose something to your preference, explore the different options, have fun with it)
-<img src="/images/practice-page.png" style="width: 100%"/>
+<img src="/readme-images/practice-page.png" style="width: 100%"/>
 
 Hint: This will give you an idea of what sorts of elements you should use in your HTML: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
